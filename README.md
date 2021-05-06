@@ -56,5 +56,5 @@ In this step we are going to..
 * Add layer controls to our map.
 
 <p align='center'>
-<a><img height="400" src="https://gph.is/g/4Lxzgx0"></a>
+<a><img height="400" src="https://media.giphy.com/media/iMMfCfD9TLuCY/giphy.gif"></a>
 </p>
