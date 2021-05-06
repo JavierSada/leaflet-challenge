@@ -1,2 +1,2 @@
-# leaflet-challenge
-Geo-mapping with Leaflet
+# Visualizing Data with Leaflet
+## Geo-mapping with Leaflet
